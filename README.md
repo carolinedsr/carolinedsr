@@ -1,6 +1,6 @@
-### Oie, prazer eu sou a Caroline Rodrigues! 👋
+### Oie, prazer eu sou a Caroline! 👋
 
--👩‍💻 Atualamente estudando Técnico em Desenvolvimento de Sistema.
+-👩‍💻 Atualamente estudando/apanhando em Técnico em Desenvolvimento de Sistema.
 
 <div align="center">
   <a href="https://github.com/carolinedsr">
