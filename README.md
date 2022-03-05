@@ -1,6 +1,6 @@
 ### Oie, prazer eu sou a Caroline! 👋
 
--👩‍💻 Atualmente estudando/apanhando em Técnico em Desenvolvimento de Sistema.
+-👩‍💻 Atualmente cursando Técnico em Desenvolvimento de Sistema.
 
 <div align="center">
   <a href="https://github.com/carolinedsr">
